@@ -1,7 +1,7 @@
-package br.com.projeto.commons;
+package br.com.bootcamp.settings;
 
-import br.com.projeto.bean.interfaces.MobileApplication;
-import br.com.projeto.bean.interfaces.WebApplication;
+import br.com.bootcamp.bean.interfaces.MobileApplication;
+import br.com.bootcamp.bean.interfaces.WebApplication;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;

@@ -1,7 +1,6 @@
-package br.com.projeto.web.steps;
+package br.com.bootcamp.web.steps;
 
-import br.com.projeto.web.funcionalidades.HomeFuncionalidade;
-import br.com.projeto.web.pages.HomePage;
+import br.com.bootcamp.web.funcionalidades.HomeFuncionalidade;
 import cucumber.api.java.pt.Dado;
 
 public class CommonStep {

@@ -1,8 +1,7 @@
-package br.com.projeto.configuration;
+package br.com.bootcamp.settings;
 
-import br.com.projeto.bean.enums.App;
-import br.com.projeto.bean.enums.Web;
-import br.com.projeto.commons.BaseTest;
+import br.com.bootcamp.bean.enums.Web;
+import br.com.bootcamp.settings.BaseTest;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;

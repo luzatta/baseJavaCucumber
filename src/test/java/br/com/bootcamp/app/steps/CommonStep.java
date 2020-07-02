@@ -1,6 +1,6 @@
-package br.com.projeto.app.steps;
+package br.com.bootcamp.app.steps;
 
-import br.com.projeto.commons.BaseTest;
+import br.com.bootcamp.settings.BaseTest;
 import cucumber.api.java.pt.Dado;
 
 public class CommonStep extends BaseTest {

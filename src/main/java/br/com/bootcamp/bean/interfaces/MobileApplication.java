@@ -1,4 +1,4 @@
-package br.com.projeto.bean.interfaces;
+package br.com.bootcamp.bean.interfaces;
 
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;

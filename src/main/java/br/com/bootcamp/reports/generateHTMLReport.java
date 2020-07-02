@@ -1,4 +1,4 @@
-package br.com.projeto.reports;
+package br.com.bootcamp.reports;
 
 import com.rajatthareja.reportbuilder.ReportBuilder;
 
@@ -7,7 +7,6 @@ import java.text.SimpleDateFormat;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.List;
 
 

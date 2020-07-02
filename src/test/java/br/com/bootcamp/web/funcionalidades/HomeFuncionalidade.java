@@ -1,8 +1,9 @@
-package br.com.projeto.web.funcionalidades;
+package br.com.bootcamp.web.funcionalidades;
 
 
-import br.com.projeto.commons.BaseTest;
-import br.com.projeto.web.pages.HomePage;
+import br.com.bootcamp.bean.commons.SeleniumRobot;
+import br.com.bootcamp.settings.BaseTest;
+import br.com.bootcamp.web.pages.HomePage;
 
 public class HomeFuncionalidade extends BaseTest {
 

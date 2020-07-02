@@ -1,6 +1,6 @@
-package br.com.projeto.bean.enums;
+package br.com.bootcamp.bean.enums;
 
-import br.com.projeto.bean.interfaces.WebApplication;
+import br.com.bootcamp.bean.interfaces.WebApplication;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 

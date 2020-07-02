@@ -1,6 +1,6 @@
-package br.com.projeto.bean.enums;
+package br.com.bootcamp.bean.enums;
 
-import br.com.projeto.bean.interfaces.MobileApplication;
+import br.com.bootcamp.bean.interfaces.MobileApplication;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;
 import io.appium.java_client.remote.MobilePlatform;

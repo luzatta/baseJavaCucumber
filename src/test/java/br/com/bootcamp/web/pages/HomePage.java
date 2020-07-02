@@ -1,4 +1,4 @@
-package br.com.projeto.web.pages;
+package br.com.bootcamp.web.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
